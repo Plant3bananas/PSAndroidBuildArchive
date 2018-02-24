@@ -3,5 +3,5 @@
 Bellow are all the past builds of Pixel Starships Android.
 
 ### Builds
-- [V0.7217](https://guides.github.com/features/mastering-markdown/)
-- [V0.7216](https://guides.github.com/features/mastering-markdown/)
+- 23/2/2018 [V0.7217 (Unreleased, failed testing)](https://github.com/savysoda/PixelStarshipsAndroidBuildArchive/raw/master/builds/beta/PSAndroidProd-0_7217.apk)
+- 21/2/2018 [V0.7216](https://github.com/savysoda/PixelStarshipsAndroidBuildArchive/raw/master/builds/beta/PSAndroidProd-0_7216.apk)
