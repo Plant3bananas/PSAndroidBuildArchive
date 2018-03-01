@@ -2,7 +2,6 @@
 
 Below are all the latest builds of Pixel Starships Android.
 
-#### Build Status:
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `PASSED`
 ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `TESTING`
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `FAILED TESTING`
