@@ -7,9 +7,11 @@ Below are all the latest builds of Pixel Starships Android.
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `FAILED TESTING`
 
 ### Pre-release Builds
-![#1589F0](https://placehold.it/15/1589F0/000000?text=+) 26/04/2018 [V0.7716 (Build 334)](https://github.com/savysoda/PSAndroidBuildArchive/releases/tag/0.7716)
+![#1589F0](https://placehold.it/15/1589F0/000000?text=+) 01/06/2018 [V0.7716 (Build 334)](https://github.com/savysoda/PSAndroidBuildArchive/releases/tag/SRTest)
 
 ### Release Builds
+
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 26/04/2018 [V0.7716 (Build 334)](https://github.com/savysoda/PSAndroidBuildArchive/releases/tag/0.7716)
 
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 24/04/2018 [V0.7715 (Build 333)](https://github.com/savysoda/PSAndroidBuildArchive/releases/tag/0.7715)
 
