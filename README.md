@@ -9,9 +9,9 @@ Below are all the latest builds of Pixel Starships Android.
 ### Pre-release Builds
 ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) 04/05/2018 [Sprite Renderer Alpha (Build 336)](https://github.com/savysoda/PSAndroidBuildArchive/releases/tag/SRTest)
 
-![#1589F0](https://placehold.it/15/1589F0/000000?text=+) 08/05/2018 [V0.7717 (Build 337)](https://github.com/savysoda/PSAndroidBuildArchive/releases/tag/0.7717)
-
 ### Release Builds
+
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 08/05/2018 [V0.7717 (Build 337)](https://github.com/savysoda/PSAndroidBuildArchive/releases/tag/0.7717)
 
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 26/04/2018 [V0.7716 (Build 334)](https://github.com/savysoda/PSAndroidBuildArchive/releases/tag/0.7716)
 
